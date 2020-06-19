@@ -1,0 +1,20 @@
+C:/Users/gshim/Documents/Colorado/HDL_For_FPGA_DEsign/AAC2M3P1.v {1 {vlog -work work -stats=none C:/Users/gshim/Documents/Colorado/HDL_For_FPGA_DEsign/AAC2M3P1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Comparator2
+
+Top level modules:
+	Comparator2
+
+} {} {}} C:/Users/gshim/Documents/Colorado/HDL_For_FPGA_DEsign/vector.out {0 {vlog -work work -stats=none C:/Users/gshim/Documents/Colorado/HDL_For_FPGA_DEsign/vector.out
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+** Error: (vlog-13069) C:/Users/gshim/Documents/Colorado/HDL_For_FPGA_DEsign/vector.out(4): near "24": syntax error, unexpected INTEGER NUMBER, expecting class.
+
+
+} {3.0 4.0} {}} C:/Users/gshim/Documents/Colorado/HDL_For_FPGA_DEsign/AAC2M3P1_tb.vp {1 {vlog -work work -stats=none C:/Users/gshim/Documents/Colorado/HDL_For_FPGA_DEsign/AAC2M3P1_tb.vp
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module AAC2M3P1_tb
+
+Top level modules:
+	AAC2M3P1_tb
+
+} {} {}}

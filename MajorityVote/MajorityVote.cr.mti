@@ -1,0 +1,15 @@
+C:/Users/gshim/Documents/Colorado/HDL_For_FPGA_DEsign/MajorityVote/majority.v {1 {vlog -work work -stats=none C:/Users/gshim/Documents/Colorado/HDL_For_FPGA_DEsign/MajorityVote/majority.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Majority
+
+Top level modules:
+	Majority
+
+} {} {}} C:/Users/gshim/Documents/Colorado/HDL_For_FPGA_DEsign/MajorityVote/majority_tb.vp {1 {vlog -work work -stats=none C:/Users/gshim/Documents/Colorado/HDL_For_FPGA_DEsign/MajorityVote/majority_tb.vp
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module AAC2M3P4_tb
+
+Top level modules:
+	AAC2M3P4_tb
+
+} {} {}}
