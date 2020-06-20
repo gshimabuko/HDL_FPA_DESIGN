@@ -1,0 +1,213 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3
+Eaac2m2p1
+Z1 w1586183471
+Z2 DPx4 work 12 aac2m2p1_pkg 0 22 :TN9_C?Z[hBDb0DKiQ?`n1
+Z3 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd
+Z7 F/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd
+l0
+L6
+VEFM0J3U`Tn07=nefIR=750
+!s100 <=k]NUJ@WV1E]ScZ8UcEC2
+Z8 OV;C;10.5b;63
+32
+!s110 1586183477
+!i10b 1
+!s108 1586183476.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd|
+Z10 !s107 /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioural
+R2
+R3
+R4
+R5
+DEx4 work 8 aac2m2p1 0 22 EFM0J3U`Tn07=nefIR=750
+l22
+L17
+V;m?`m_D_FgmHGJF?jKDHW2
+!s100 mczB9c06Qcif@5M`XfL?V0
+R8
+32
+!s110 1586182764
+!i10b 1
+!s108 1586182764.000000
+R9
+R10
+!i113 1
+R11
+R12
+Paac2m2p1_pkg
+R4
+R5
+Z13 w1586181338
+R0
+Z14 8/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/AAC2M2P1_PKG.vhd
+Z15 F/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/AAC2M2P1_PKG.vhd
+l0
+L30
+V:TN9_C?Z[hBDb0DKiQ?`n1
+!s100 o^cjOQQS6iCN;W;8Ra2nT0
+R8
+32
+Z16 !s110 1586181363
+!i10b 1
+Z17 !s108 1586181363.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/AAC2M2P1_PKG.vhd|
+Z19 !s107 /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/AAC2M2P1_PKG.vhd|
+!i113 1
+R11
+R12
+Bbody
+R2
+R4
+R5
+l0
+L54
+V[C0f]E>Y1EJG^Bb:5LbKc2
+!s100 YeG5Qk43<<ekPeWlfeheb1
+R8
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Efsm
+Z20 w1584813579
+Z21 DPx4 work 7 fsm_pkg 0 22 3E4a6ZJcFd=DzC9mQ@HFV0
+R4
+R5
+R0
+Z22 8/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/AAC2M2P3.vhd
+Z23 F/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/AAC2M2P3.vhd
+l0
+L5
+Vo:gja6c<8JKN:F<f_m3:d1
+!s100 PoUeZYdOHLdR0V=bYgIma1
+R8
+32
+Z24 !s110 1584813583
+!i10b 1
+Z25 !s108 1584813583.000000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/AAC2M2P3.vhd|
+Z27 !s107 /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/AAC2M2P3.vhd|
+!i113 1
+R11
+R12
+Abehavioural
+R21
+R4
+R5
+DEx4 work 3 fsm 0 22 o:gja6c<8JKN:F<f_m3:d1
+l14
+L11
+V^m5@Pi7blMa^7fTiM4P1g1
+!s100 gCb^?oKo?4hcQNYMUN0Ua3
+R8
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R11
+R12
+Pfsm_pkg
+R4
+R5
+Z28 w1584813145
+R0
+Z29 8/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/fsm_pkg.vhd
+Z30 F/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/fsm_pkg.vhd
+l0
+L30
+V3E4a6ZJcFd=DzC9mQ@HFV0
+!s100 6<BZzB=0_56gV57:1aUb:2
+R8
+32
+Z31 !s110 1584813156
+!i10b 1
+Z32 !s108 1584813156.000000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/fsm_pkg.vhd|
+Z34 !s107 /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/fsm_pkg.vhd|
+!i113 1
+R11
+R12
+Bbody
+R21
+R4
+R5
+l0
+L40
+VGBEzPOa>F_2oJ>Q4>lmHh2
+!s100 mP62h7bbYc13cU_;X>Lld1
+R8
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R11
+R12
+Esomador_16
+Z35 w1586188250
+R3
+R4
+R5
+R0
+Z36 8/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/newSum.vhd
+Z37 F/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/newSum.vhd
+l0
+L5
+VOKzl]oAXSWYiEYk0UzcVH3
+!s100 HoFMY;?_K>DaUnk]88d]X1
+R8
+32
+Z38 !s110 1586188255
+!i10b 1
+Z39 !s108 1586188255.000000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/newSum.vhd|
+Z41 !s107 /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/newSum.vhd|
+!i113 1
+R11
+R12
+Artl
+R3
+R4
+R5
+Z42 DEx4 work 10 somador_16 0 22 OKzl]oAXSWYiEYk0UzcVH3
+l15
+L13
+V`Za3Ihf3z]WEF;em;W^z?2
+!s100 k[kPLUOKb>d994@e8j_hh1
+R8
+32
+R38
+!i10b 1
+R39
+R40
+R41
+!i113 1
+R11
+R12

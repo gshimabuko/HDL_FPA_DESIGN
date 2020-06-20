@@ -1,0 +1,177 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P1
+Eaac2m2p1
+Z1 w1584734766
+Z2 DPx4 work 12 aac2m2p1_pkg 0 22 2I4eXRhEA:Z0X>hfQ9[z=3
+Z3 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dC:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P1
+Z7 8C:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1.vhd
+Z8 FC:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1.vhd
+l0
+L6
+VaeI;[ZMi:W6=29C_[XgTO3
+!s100 <=k]NUJ@WV1E]ScZ8UcEC2
+Z9 OP;C;10.4a;61
+32
+Z10 !s110 1584734856
+!i10b 1
+Z11 !s108 1584734856.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1.vhd|
+Z13 !s107 C:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1.vhd|
+!i113 1
+Z14 o-work work -2002 -explicit -O0
+Z15 tExplicit 1
+Abehavioural
+R2
+R3
+R4
+R5
+Z16 DEx4 work 8 aac2m2p1 0 22 aeI;[ZMi:W6=29C_[XgTO3
+l21
+L17
+VSSZg1`c_D51SA[]Dj^JZa3
+!s100 3VbRJeWGA:jd3LdRVkROW3
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Paac2m2p1_pkg
+R4
+R5
+Z17 w1584591165
+R6
+Z18 8C:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1_PKG.vhd
+Z19 FC:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1_PKG.vhd
+l0
+L30
+V2I4eXRhEA:Z0X>hfQ9[z=3
+!s100 o^cjOQQS6iCN;W;8Ra2nT0
+R9
+32
+Z20 !s110 1584600507
+!i10b 1
+Z21 !s108 1584600506.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1_PKG.vhd|
+Z23 !s107 C:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1_PKG.vhd|
+!i113 1
+R14
+R15
+Bbody
+R2
+R4
+R5
+l0
+L54
+VQ0>coa0Vh0z0KB0@L9X`?3
+!s100 YeG5Qk43<<ekPeWlfeheb1
+R9
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R14
+R15
+nbody
+Eaac2m2p1_tb
+Z24 w1573345074
+Z25 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z26 DPx4 ieee 20 numeric_bit_unsigned 0 22 Uo=_FXbo@j4IMIikZfQ=:3
+R3
+R4
+R5
+R6
+Z27 8C:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1_tb.vhdp
+Z28 FC:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1_tb.vhdp
+l0
+L53
+Vz0X5S`mjF@n2[0ZL8zNdI1
+!s100 gS`_:X:U1F[NhndMH]ZN@3
+R9
+32
+Z29 !s110 1584730804
+!i10b 1
+Z30 !s108 1584730804.000000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1_tb.vhdp|
+Z32 !s107 C:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1_tb.vhdp|
+!i113 1
+R14
+R15
+Abehavioral
+R25
+R26
+R3
+R4
+R5
+DEx4 work 11 aac2m2p1_tb 0 22 z0X5S`mjF@n2[0ZL8zNdI1
+l146
+L61
+V7kNGkCBlKODk31Ic<Jk=_3
+!s100 1QSg99LK6^^POTS]o@Nek3
+R9
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+R14
+R15
+Pslope_detector_pkg
+R4
+R5
+Z33 w1584590961
+R0
+Z34 8/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1_PKG.vhd
+Z35 F/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1_PKG.vhd
+l0
+L30
+VIKHVcF`TT;4k==P9WNfC_3
+!s100 Lh`;aLa]C;1d@[5<TI9L@2
+Z36 OV;C;10.5b;63
+32
+Z37 !s110 1584591019
+!i10b 1
+Z38 !s108 1584591018.000000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1_PKG.vhd|
+Z40 !s107 /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1_PKG.vhd|
+!i113 1
+Z41 o-work work -2002 -explicit
+Z42 tExplicit 1 CvgOpt 0
+Bbody
+DPx4 work 18 slope_detector_pkg 0 22 IKHVcF`TT;4k==P9WNfC_3
+R4
+R5
+l0
+L54
+VSE82RJaS1LO]XkjYmP[V<1
+!s100 GfIWbWal0@6Q4J=b4kfc40
+R36
+32
+R37
+!i10b 1
+R38
+R39
+R40
+!i113 1
+R41
+R42

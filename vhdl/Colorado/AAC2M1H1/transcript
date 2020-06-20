@@ -1,0 +1,257 @@
+# Loading project AAC2M1H1
+# Compile of adder_pkg.vhd was successful.
+# Compile of AAC2M1H1.vhd failed with 3 errors.
+# Compile of AAC2M1H1.vhd failed with 3 errors.
+# Compile of AAC2M1H1.vhd was successful.
+vsim work.fulladd
+# vsim work.fulladd 
+# Start time: 22:19:35 on Mar 12,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.adder_pkg
+# Loading work.fulladd(behavioral)
+add wave -position insertpoint sim:/fulladd/*
+force -freeze sim:/fulladd/Cin 1 10
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_files.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_mymachines.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_myhostname.so.2 : module was loaded at an absolute address.
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /fulladd
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /fulladd
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 10 ps  Iteration: 0  Instance: /fulladd
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 10 ps  Iteration: 0  Instance: /fulladd
+force -freeze sim:/fulladd/A 0 10 -cancel 20
+force -freeze sim:/fulladd/B 0 10 -cancel 20
+restart -f
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_files.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_mymachines.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_myhostname.so.2 : module was loaded at an absolute address.
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /fulladd
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /fulladd
+restart -f
+force -freeze sim:/fulladd/A 0 1
+force -freeze sim:/fulladd/B 0 1
+force -freeze sim:/fulladd/Cin 0 1
+force -freeze sim:/fulladd/A 0 10
+force -freeze sim:/fulladd/B 0 10
+force -freeze sim:/fulladd/Cin 1 10
+force -freeze sim:/fulladd/A 0 20
+force -freeze sim:/fulladd/B 1 20
+force -freeze sim:/fulladd/Cin 0 20
+run -next
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_files.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_mymachines.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_myhostname.so.2 : module was loaded at an absolute address.
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /fulladd
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /fulladd
+run
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1 ps  Iteration: 0  Instance: /fulladd
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 1 ps  Iteration: 0  Instance: /fulladd
+quit -sim
+# WARNING: No extended dataflow license exists
+# End time: 22:37:17 on Mar 12,2020, Elapsed time: 0:17:42
+# Errors: 0, Warnings: 41
+# Compile of AAC2M1H1.vhd was successful.
+# Compile of AAC2M1H1_tb.vhd failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of AAC2M1H1_tb.vhd failed with 3 errors.
+# Compile of AAC2M1H1_tb.vhd failed with 2 errors.
+# Compile of AAC2M1H1_tb.vhd failed with 3 errors.
+# Compile of AAC2M1H1_tb.vhd was successful.
+vsim work.aac2m1h1_tb
+# vsim work.aac2m1h1_tb 
+# Start time: 22:42:27 on Mar 12,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_textio(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aac2m1h1_tb(behavioral)
+# Loading work.adder_pkg
+# Loading work.fulladd(behavioral)
+add wave -position insertpoint sim:/aac2m1h1_tb/*
+add wave -position insertpoint sim:/aac2m1h1_tb/DUT/*
+run -all
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_files.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_mymachines.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_myhostname.so.2 : module was loaded at an absolute address.
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /aac2m1h1_tb/DUT
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /aac2m1h1_tb/DUT
+# ** Fatal: (vsim-3340) Attempt to call ENDFILE on an unopened file.
+#    Time: 50 us  Iteration: 0  Process: /aac2m1h1_tb/enable_proc File: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1H1/AAC2M1H1_tb.vhd
+# Fatal error in Process enable_proc at /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1H1/AAC2M1H1_tb.vhd line 65
+# 
+# HDL call sequence:
+# Stopped at /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1H1/AAC2M1H1_tb.vhd 65 Process enable_proc
+# 
+quit -sim
+# End time: 22:43:51 on Mar 12,2020, Elapsed time: 0:01:24
+# Errors: 2, Warnings: 12
+# Compile of AAC2M1H1_tb.vhd was successful.
+vsim work.aac2m1h1_tb
+# vsim work.aac2m1h1_tb 
+# Start time: 22:44:06 on Mar 12,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_textio(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aac2m1h1_tb(behavioral)
+# Loading work.adder_pkg
+# Loading work.fulladd(behavioral)
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/aac2m1h1_tb/DUT/*
+add wave -position insertpoint sim:/aac2m1h1_tb/*
+add wave -position insertpoint sim:/aac2m1h1_tb/DUT/*
+run -all
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_files.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_mymachines.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_myhostname.so.2 : module was loaded at an absolute address.
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /aac2m1h1_tb/DUT
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /aac2m1h1_tb/DUT
+# ** Fatal: (vsim-3340) Attempt to call ENDFILE on an unopened file.
+#    Time: 50 ps  Iteration: 0  Process: /aac2m1h1_tb/enable_proc File: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1H1/AAC2M1H1_tb.vhd
+# Fatal error in Process enable_proc at /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1H1/AAC2M1H1_tb.vhd line 65
+# 
+# HDL call sequence:
+# Stopped at /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1H1/AAC2M1H1_tb.vhd 65 Process enable_proc
+# 
+run
+# Cannot continue because of fatal error.
+# HDL call sequence:
+# Stopped at /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1H1/AAC2M1H1_tb.vhd 65 Process enable_proc
+# 
+quit -sim
+# End time: 22:48:59 on Mar 12,2020, Elapsed time: 0:04:53
+# Errors: 3, Warnings: 13
+# Compile of AAC2M1H1_tb.vhdp failed with 1 errors.
+# Compile of AAC2M1H1_tb.vhd was successful.
+# Compile of AAC2M1H1.vhd was successful.
+vsim work.aac2m1h1_tb
+# vsim work.aac2m1h1_tb 
+# Start time: 22:50:20 on Mar 12,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_textio(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aac2m1h1_tb(behavioral)
+# Loading work.adder_pkg
+# Loading work.fulladd(behavioral)
+# WARNING: No extended dataflow license exists
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_files.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_mymachines.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_myhostname.so.2 : module was loaded at an absolute address.
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /aac2m1h1_tb/DUT
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /aac2m1h1_tb/DUT
+# ** Fatal: (vsim-3340) Attempt to call ENDFILE on an unopened file.
+#    Time: 50 ps  Iteration: 0  Process: /aac2m1h1_tb/enable_proc File: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1H1/AAC2M1H1_tb.vhd
+# Fatal error in Process enable_proc at /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1H1/AAC2M1H1_tb.vhd line 65
+# 
+# HDL call sequence:
+# Stopped at /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1H1/AAC2M1H1_tb.vhd 65 Process enable_proc
+# 
+quit -sim
+# End time: 22:52:14 on Mar 12,2020, Elapsed time: 0:01:54
+# Errors: 2, Warnings: 13
+# Compile of AAC2M1H1_tb.vhd failed with 1 errors.
+# Compile of AAC2M1H1_tb.vhd was successful.
+vsim work.aac2m1h1_tb
+# vsim work.aac2m1h1_tb 
+# Start time: 22:52:59 on Mar 12,2020
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_textio(body)
+# Loading ieee.numeric_std(body)
+# Loading work.aac2m1h1_tb(behavioral)
+# Loading work.adder_pkg
+# Loading work.fulladd(behavioral)
+add wave -position insertpoint sim:/aac2m1h1_tb/*
+run
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libpthread.so.0 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/librt.so.1 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libdl.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libm.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libc.so.6 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /lib/ld-linux.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_files.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_mymachines.so.2 : module was loaded at an absolute address.
+# ** Warning: (vsim-3116) Problem reading symbols from /usr/lib32/libnss_myhostname.so.2 : module was loaded at an absolute address.
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /aac2m1h1_tb/DUT
+# ** Warning: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+#    Time: 0 ps  Iteration: 0  Instance: /aac2m1h1_tb/DUT
+# ** Fatal: (vsim-3340) Attempt to call ENDFILE on an unopened file.
+#    Time: 50 ps  Iteration: 0  Process: /aac2m1h1_tb/enable_proc File: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1H1/AAC2M1H1_tb.vhd
+# Fatal error in Process enable_proc at /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1H1/AAC2M1H1_tb.vhd line 65
+# 
+# HDL call sequence:
+# Stopped at /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1H1/AAC2M1H1_tb.vhd 65 Process enable_proc
+# 
+# A time value could not be extracted from the current line
+# End time: 22:55:34 on Mar 12,2020, Elapsed time: 0:02:35
+# Errors: 2, Warnings: 12

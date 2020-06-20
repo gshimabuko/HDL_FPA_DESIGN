@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/gshimabuko/Documents/Estudo/Digital_Electronics/verilog/AAC2M3P1
+vAAC2M3P1_tb
+!s110 1585615831
+!i10b 1
+!s100 `_?0lU:A_VSW7]Z0h<_Ea3
+IT6^5Ln_3i7lAhI_C^C19`3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P1
+w1573416404
+8C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P1/AAC2M3P1_tb.vp
+FC:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P1/AAC2M3P1_tb.vp
+L0 61
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1585615831.000000
+!s107 C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P1/AAC2M3P1_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P1/AAC2M3P1_tb.vp|
+!s101 -O0
+!i113 1
+Z3 o-work work -O0
+n@a@a@c2@m3@p1_tb
+vComparator2
+!s110 1585615828
+!i10b 1
+!s100 F@[<AzjPA]71YgklCPQ]f3
+IQjBe6;Yo2>zX[cg3J;W7@3
+R0
+R1
+w1585615824
+8C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P1/AAC2M3P1.v
+FC:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P1/AAC2M3P1.v
+L0 38
+R2
+r1
+!s85 0
+31
+!s108 1585615827.000000
+!s107 C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P1/AAC2M3P1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P1/AAC2M3P1.v|
+!s101 -O0
+!i113 1
+R3
+n@comparator2

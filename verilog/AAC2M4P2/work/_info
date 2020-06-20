@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/win32pe_edu
+vAAC2M4P2_tb
+!s110 1585869257
+!i10b 1
+!s100 9li01h<P5A3g>?BBjD@al1
+IR>;cDjBYbfM7]0Noj^kOD1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M4P2
+w1573430040
+8C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M4P2/AAC2M4P2_tb.vp
+FC:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M4P2/AAC2M4P2_tb.vp
+L0 65
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1585869257.000000
+!s107 C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M4P2/AAC2M4P2_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M4P2/AAC2M4P2_tb.vp|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@a@c2@m4@p2_tb
+vRAM128x32
+!s110 1585869254
+!i10b 1
+!s100 [P[37[n=;VlI?mQh0G`CY2
+IbZP<61SbFc@OmRbJ^zVYC0
+R0
+R1
+w1585869039
+8C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M4P2/AAC2M4P2.v
+FC:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M4P2/AAC2M4P2.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1585869254.000000
+!s107 C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M4P2/AAC2M4P2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M4P2/AAC2M4P2.v|
+!s101 -O0
+!i113 1
+R3
+n@r@a@m128x32

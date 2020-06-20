@@ -1,0 +1,96 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P2
+Eaac2m2p2_tb
+Z0 w1573349722
+Z1 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z2 DPx4 ieee 20 numeric_bit_unsigned 0 22 Uo=_FXbo@j4IMIikZfQ=:3
+Z3 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dC:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P2
+Z7 8C:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P2/AAC2M2P2_tb.vhdp
+Z8 FC:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P2/AAC2M2P2_tb.vhdp
+l0
+L53
+VC^^INfnG1H6REiUhY::;I2
+!s100 JK<TR650CDLLc?aIHzk^b0
+Z9 OP;C;10.4a;61
+32
+!s110 1584805603
+!i10b 1
+Z10 !s108 1584805603.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P2/AAC2M2P2_tb.vhdp|
+Z12 !s107 C:/Users/gshim/Documents/Digital_Electronics/vhdl/Colorado/AAC2M2P2/AAC2M2P2_tb.vhdp|
+!i113 1
+Z13 o-work work -2002 -explicit -O0
+Z14 tExplicit 1
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+Z15 DEx4 work 11 aac2m2p2_tb 0 22 C^^INfnG1H6REiUhY::;I2
+l139
+L61
+Z16 VnJgSl]]R[9SJRRCV6c]oB0
+Z17 !s100 FeaU2HMIY9j9K6?a6>DiB1
+R9
+32
+!s110 1584805604
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Eram128_32
+Z18 w1584805589
+R3
+R4
+R5
+R6
+Z19 8C:\Users\gshim\Documents\Digital_Electronics\vhdl\Colorado\AAC2M2P2\AAC2M2P2.vhd
+Z20 FC:\Users\gshim\Documents\Digital_Electronics\vhdl\Colorado\AAC2M2P2\AAC2M2P2.vhd
+l0
+L5
+V_D1i7ZE:<UoKL=NdNFVoB2
+!s100 CQbMc?jFVZC=R=AX2NV4?2
+R9
+32
+Z21 !s110 1584805599
+!i10b 1
+Z22 !s108 1584805599.000000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\gshim\Documents\Digital_Electronics\vhdl\Colorado\AAC2M2P2\AAC2M2P2.vhd|
+Z24 !s107 C:\Users\gshim\Documents\Digital_Electronics\vhdl\Colorado\AAC2M2P2\AAC2M2P2.vhd|
+!i113 1
+R13
+R14
+Abehavioural
+R3
+R4
+R5
+DEx4 work 9 ram128_32 0 22 _D1i7ZE:<UoKL=NdNFVoB2
+l19
+L16
+V4^Gzb_DlL^8FU>ilfHRVf2
+!s100 KJL1[o3F1WeX9EgeYJBH]3
+R9
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R13
+R14

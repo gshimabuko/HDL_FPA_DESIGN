@@ -1,0 +1,42 @@
+# Current time Mon Apr  6 11:58:28 2020
+# ModelSim - Intel FPGA Edition Stack Trace
+# Program = vish
+# Id = "10.5b"
+# Version = "2016.10"
+# Date = "Oct  5 2016"
+# Platform = linuxpe
+# 0    0xf7fd0ab9: '<unknown (@0xf7fd0ab9)>'
+# 1    0x0854b8f4: 'Tcl_DoOneEvent + 0xf4' in '/opt/Quartus/modelsim_ase/linuxaloem/vish'
+# 2    0x085111be: '<unknown (@0x85111be)>'
+# 3    0x084cc41d: '<unknown (@0x84cc41d)>'
+# 4    0x0851503a: '<unknown (@0x851503a)>'
+# 5    0x0855ca25: 'TclObjInterpProcCore + 0x115' in '/opt/Quartus/modelsim_ase/linuxaloem/vish'
+# 6    0x0855cfc2: 'TclObjInterpProc + 0x62' in '/opt/Quartus/modelsim_ase/linuxaloem/vish'
+# 7    0x084cc41d: '<unknown (@0x84cc41d)>'
+# 8    0x084cc9f2: 'Tcl_EvalObjv + 0x52' in '/opt/Quartus/modelsim_ase/linuxaloem/vish'
+# 9    0x084ce86a: 'TclEvalObjEx + 0x33a' in '/opt/Quartus/modelsim_ase/linuxaloem/vish'
+# 10   0x0855c391: '<unknown (@0x855c391)>'
+# 11   0x084cc41d: '<unknown (@0x84cc41d)>'
+# 12   0x0851503a: '<unknown (@0x851503a)>'
+# 13   0x0855ca25: 'TclObjInterpProcCore + 0x115' in '/opt/Quartus/modelsim_ase/linuxaloem/vish'
+# 14   0x0855cfc2: 'TclObjInterpProc + 0x62' in '/opt/Quartus/modelsim_ase/linuxaloem/vish'
+# 15   0x084cc41d: '<unknown (@0x84cc41d)>'
+# 16   0x084cded6: '<unknown (@0x84cded6)>'
+# 17   0x084ce4c5: 'Tcl_EvalEx + 0x35' in '/opt/Quartus/modelsim_ase/linuxaloem/vish'
+# 18   0x084ce92c: 'TclEvalObjEx + 0x3fc' in '/opt/Quartus/modelsim_ase/linuxaloem/vish'
+# 19   0x084cea36: 'Tcl_EvalObjEx + 0x36' in '/opt/Quartus/modelsim_ase/linuxaloem/vish'
+# 20   0x0855c2e9: '<unknown (@0x855c2e9)>'
+# 21   0x084cc41d: '<unknown (@0x84cc41d)>'
+# 22   0x0851503a: '<unknown (@0x851503a)>'
+# 23   0x0855ca25: 'TclObjInterpProcCore + 0x115' in '/opt/Quartus/modelsim_ase/linuxaloem/vish'
+# 24   0x0855cfc2: 'TclObjInterpProc + 0x62' in '/opt/Quartus/modelsim_ase/linuxaloem/vish'
+# 25   0x084cc41d: '<unknown (@0x84cc41d)>'
+# 26   0x084cc73d: '<unknown (@0x84cc73d)>'
+# 27   0x0851503a: '<unknown (@0x851503a)>'
+# 28   0x0851d9dc: '<unknown (@0x851d9dc)>'
+# 29   0x084ce59c: 'TclEvalObjEx + 0x6c' in '/opt/Quartus/modelsim_ase/linuxaloem/vish'
+# 30   0x084cea36: 'Tcl_EvalObjEx + 0x36' in '/opt/Quartus/modelsim_ase/linuxaloem/vish'
+# 31   0xf7fc2eac: 'Itcl_EvalMemberCode + 0x3cc' in '/opt/Quartus/modelsim_ase/linuxaloem/itcl3.4/libitcl3.4.so'
+# 32   0x0afd129b: '<unknown (@0xafd129b)>'
+# 33   0x09d46cbb: '<unknown (@0x9d46cbb)>'
+# 34   0x00006a5d: '<unknown (@0x6a5d)>'

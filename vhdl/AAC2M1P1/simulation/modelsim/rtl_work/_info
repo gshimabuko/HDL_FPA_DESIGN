@@ -1,0 +1,72 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1P1/simulation/modelsim
+Eaac2m1p1_tb
+w1573316470
+DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+8/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1P1/AAC2M1P1_tb.vhd
+F/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1P1/AAC2M1P1_tb.vhd
+l0
+L52
+VhHT5Vg2c;HG4:jkPkYl[>1
+!s100 o_c;zO@o9]4[Q2AMzCkSz0
+Z3 OV;C;10.5b;63
+31
+Z4 !s110 1583723488
+!i10b 1
+Z5 !s108 1583723488.000000
+!s90 -reportprogress|300|-93|-work|work|/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1P1/AAC2M1P1_tb.vhd|
+!s107 /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1P1/AAC2M1P1_tb.vhd|
+!i113 1
+Z6 o-93 -work work
+Z7 tExplicit 1 CvgOpt 0
+Ecomparator2
+Z8 w1583722243
+R1
+R2
+R0
+Z9 8/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1P1/comparator2.vhd
+Z10 F/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1P1/comparator2.vhd
+l0
+L40
+VJmQj[j6mMS[2j5L?0Z2:Q3
+!s100 jbXW<kjD[_>^?bUXljbbi2
+R3
+31
+R4
+!i10b 1
+R5
+Z11 !s90 -reportprogress|300|-93|-work|work|/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1P1/comparator2.vhd|
+Z12 !s107 /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M1P1/comparator2.vhd|
+!i113 1
+R6
+R7
+Acompare
+R1
+R2
+DEx4 work 11 comparator2 0 22 JmQj[j6mMS[2j5L?0Z2:Q3
+l46
+L45
+VA:FRdL27m^8edG?RoP0YD3
+!s100 H>cXiTi`4J@QLSPDDXoEe1
+R3
+31
+R4
+!i10b 1
+R5
+R11
+R12
+!i113 1
+R6
+R7

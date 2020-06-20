@@ -1,0 +1,11 @@
+Log created: 2020-06-20T04:48:31.059024000Z
+Process ID:  75945 (0x128a9)
+Parent PID:  75899 (0x1287b)
+Executable:  /usr/lib/virtualbox/VirtualBoxVM
+Arg[0]: /usr/lib/virtualbox/VirtualBoxVM
+Arg[1]: --comment
+Arg[2]: Windows
+Arg[3]: --startvm
+Arg[4]: af3858f6-fa8e-4e49-848f-d18f4b945ec8
+Arg[5]: --no-startvm-errormsgbox
+AddRef: illegal refcnt=0 state=2

@@ -1,0 +1,45 @@
+/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/AAC2M2P1_PKG.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/AAC2M2P1_PKG.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package AAC2M2P1_PKG
+-- Compiling package body AAC2M2P1_PKG
+-- Loading package AAC2M2P1_PKG
+
+} {} {}} /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd {0 {vcom -work work -2002 -explicit -stats=none /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package AAC2M2P1_PKG
+-- Compiling entity AAC2M2P1
+-- Compiling architecture behavioural of AAC2M2P1
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(134): (vcom-1581) No feasible entries for infix operator '+'.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(134): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(138): (vcom-1581) No feasible entries for infix operator '+'.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(138): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(145): (vcom-1581) No feasible entries for infix operator '+'.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(145): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(149): (vcom-1581) No feasible entries for infix operator '+'.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(149): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(153): (vcom-1581) No feasible entries for infix operator '+'.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(153): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(157): (vcom-1581) No feasible entries for infix operator '+'.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(157): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(161): (vcom-1581) No feasible entries for infix operator '+'.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(161): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(165): (vcom-1581) No feasible entries for infix operator '+'.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(165): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(169): (vcom-1581) No feasible entries for infix operator '+'.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(169): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(173): (vcom-1581) No feasible entries for infix operator '+'.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(173): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(177): (vcom-1581) No feasible entries for infix operator '+'.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(177): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(181): (vcom-1581) No feasible entries for infix operator '+'.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(181): Type error resolving infix expression "+" as type ieee.std_logic_1164.STD_LOGIC_VECTOR.
+** Error: /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P3/teste.vhd(190): VHDL Compiler exiting
+
+} {10.0 35.0} {}}

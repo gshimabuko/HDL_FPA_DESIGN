@@ -1,0 +1,20 @@
+/home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1_PKG.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1_PKG.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package AAC2M2P1_PKG
+-- Compiling package body AAC2M2P1_PKG
+-- Loading package AAC2M2P1_PKG
+
+} {} {}} /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/gshimabuko/Documents/Estudo/Digital_Electronics/vhdl/Colorado/AAC2M2P1/AAC2M2P1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package AAC2M2P1_PKG
+-- Compiling entity AAC2M2P1
+-- Compiling architecture behavioural of AAC2M2P1
+
+} {} {}}

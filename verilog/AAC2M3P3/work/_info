@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P1
+vAAC2M3P1_tb
+!s110 1585670011
+!i10b 1
+!s100 fo5:T?lLKz8kS]QTglIKY1
+I:2MZ4N7J0[YK>IQUAnI;13
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P3
+w1573417428
+8C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P3/AAC2M3P3_tb.vp
+FC:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P3/AAC2M3P3_tb.vp
+L0 63
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1585670010.000000
+!s107 C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P3/AAC2M3P3_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P3/AAC2M3P3_tb.vp|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@a@c2@m3@p1_tb
+vfind_errors
+!s110 1585670003
+!i10b 1
+!s100 jkz6XDOP_h:1]MLl<kX<l1
+IhV2XR`X4@Pec;moV0H8:C1
+R0
+R1
+w1585669998
+8C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P3/AAC2M3P3.v
+FC:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P3/AAC2M3P3.v
+L0 38
+R2
+r1
+!s85 0
+31
+!s108 1585670003.000000
+!s107 C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P3/AAC2M3P3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/gshim/Documents/Digital_Electronics/verilog/AAC2M3P3/AAC2M3P3.v|
+!s101 -O0
+!i113 1
+R3
